@@ -1,4 +1,4 @@
-# Tarea02
+# Tarea 02: Datos de COVID en Costa Rica al 30 de mayo de 2022
 
 ### Elaborado por:
 - Daniela Amador Muñoz
