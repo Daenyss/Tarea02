@@ -15,4 +15,4 @@ Tomando como base estos datos, se desarrollaron tres gráficos:
   - Un segundo gráfico de líneas que muestre la evolución a través del tiempo de los casos positivos acumulados de menores, los casos positivos acumulados de adultos y       de los casos positivos acumulados de adultos mayores. 
   - Y por último un gráfico sunburst, que muestra la cantidad de casos positivos en provincias y en los cantones. 
 
-[Enlace al sitio NBViewer]()
+[Enlace al sitio NBViewer](https://nbviewer.org/github/Daenyss/Tarea02/blob/main/Untitled.ipynb)
