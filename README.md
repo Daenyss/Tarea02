@@ -1,6 +1,6 @@
 # Tarea02
 
-### Autores:
+### Elaborado por:
 - Daniela Amador Muñoz
 - Axell S. Martínez
 
