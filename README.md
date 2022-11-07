@@ -14,3 +14,5 @@ Tomando como base estos datos, se desarrollaron tres gráficos:
   - Un primer gráfico de líneas que muestra la evolución a través del tiempo de los casos positivos acumulados de hombres y de los casos positivos acumulados de mujeres.
   - Un segundo gráfico de líneas que muestre la evolución a través del tiempo de los casos positivos acumulados de menores, los casos positivos acumulados de adultos y       de los casos positivos acumulados de adultos mayores. 
   - Y por último un gráfico sunburst, que muestra la cantidad de casos positivos en provincias y en los cantones. 
+
+[Enlace al sitio NBViewer]()
